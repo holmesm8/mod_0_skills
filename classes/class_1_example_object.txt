@@ -1,0 +1,14 @@
+Instance: Porcini Steak
+
+Attributes
+cut_of_meat: ribeye
+preparedness: rare
+size: 12oz
+bone_in: yes
+
+
+Methods:
+change_cut_of_meat (changes from ribeye to filet mignon)
+desired_preparedness (changes from rare to well_done)
+choose_size (changes the size from 12 to 16)
+bone_in.decline (changes the bone_in to No)
