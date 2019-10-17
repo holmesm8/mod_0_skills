@@ -1,0 +1,14 @@
+Instance: Matt's Secret Awesome Salad
+
+Attributes
+dressing: ranch
+croutons: yes
+salad_size: medium
+blue_cheese: no
+
+
+Methods:
+change_dressing (changes dressing from ranch to caesar)
+decline.croutons (changes croutons from yes to no)
+change.salad_size (changes salad_size from medium to large)
+add.blue_cheese (changes blue_cheese value from no to yes)
