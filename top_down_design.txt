@@ -1,0 +1,36 @@
+How to Become a Turing Student
+
+1 Decide that you want to attend Turing
+  If yes
+    1.1 Start application process
+  If no
+    1.1 Follow your own path
+2 Learn about the application process
+  2.1 Go to the Turing website
+  2.2 Click on the FAQ's tab
+  2.3 Read through and understand the application process
+    2.3.1 The initial application
+      2.3.1.1 Requires a resume
+      2.3.1.2 Requires passing of logic quiz
+    2.3.2 In person interview.
+      2.3.2.1 Logic evaluation with instructor
+      2.3.2.2 Q&A section about yourself
+3 Start the initial application process
+  3.1 Prepare and finalize your resume
+  3.2 Submit resume online at Turing website
+  3.3 Take the logic quiz on Turing website
+    If you passed
+      3.3.1 Prepare for an in person interview
+    If you did not pass
+      3.3.1 Wait 45 days and reapply
+4 Do the in person interview
+  4.1 Collaborate with your instructor and work on the logic quiz
+  4.2 Answer the questions about you and your values and ideals
+5 Acceptance and Enrollment
+  5.1 Wait for acceptance email with enrollment instructions
+  5.2 Process enrollment instructions
+  5.3 Pay deposit of $1,200 for laptop
+  5.4 Enroll in Mod 0 at least 30 days before Mod 1
+6 Become Student
+  6.1 Start Mod 0 class
+  6.2 You are now officially a Turing Student
