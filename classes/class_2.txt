@@ -1,0 +1,14 @@
+Class Salad
+
+Attributes:
+dressing (string)
+croutons (boolean)
+salad_size (integer)
+blue_cheese (boolean)
+
+
+Methods:
+change_dressing (changes the type of dressing)
+decline.croutons (changes croutons from yes to no)
+choose_size (allows you to select a different size of salad)
+add.blue_cheese (changes blue_cheese value from no to yes)
