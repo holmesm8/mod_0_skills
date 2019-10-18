@@ -2,13 +2,13 @@ Instance: Matt's Secret Awesome Salad
 
 Attributes
 dressing: ranch
-croutons: yes
+has_croutons: true
 salad_size: medium
-blue_cheese: no
+has_blue_cheese: false
 
 
 Methods:
-change_dressing (changes dressing from ranch to caesar)
-decline.croutons (changes croutons from yes to no)
-change.salad_size (changes salad_size from medium to large)
-add.blue_cheese (changes blue_cheese value from no to yes)
+change_dressing (changes dressing attribute from ranch to caesar)
+decline_croutons (changes has_croutons from true to false)
+change_salad_size (changes salad_size from medium to large)
+add_blue_cheese (changes has_blue_cheese value from false to true)
