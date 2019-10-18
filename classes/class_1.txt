@@ -1,14 +1,14 @@
 Class Steak
 
 Attributes:
-cut_of_meat (array)
+cut_of_meat (string)
 preparedness (string)
 size (integer)
 bone_in (boolean)
 
 
 Methods:
-change_cut_of_meat (user changes cut of meat, chooses from array like a ribeye or filet mignon)
-desired_preparedness (changes the string from choice of options like rare or medium)
-choose_size (allows you to select a different size of steak)
-bone_in.decline (changes bone_in from yes to no)
+change_cut_of_meat (changes the meat attribute)
+desired_preparedness (changes the preparedness attribute)
+choose_size (changes the size attribute)
+bone_in_decline (changes the bone_in attribute from true to false)
