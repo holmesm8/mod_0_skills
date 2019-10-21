@@ -1,9 +1,9 @@
 Instance: Matt's Secret Awesome Salad
 
 Attributes
-dressing: ranch
+dressing: "ranch"
 has_croutons: true
-salad_size: medium
+salad_size: "medium"
 has_blue_cheese: false
 
 

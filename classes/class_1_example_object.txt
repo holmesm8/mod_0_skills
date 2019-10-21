@@ -1,8 +1,8 @@
 Instance: Porcini Steak
 
 Attributes
-cut_of_meat: ribeye
-preparedness: rare
+cut_of_meat: "ribeye"
+preparedness: "rare"
 size: 12
 bone_in: true
 
